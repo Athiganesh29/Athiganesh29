@@ -34,20 +34,6 @@
 - 📖 **Tech Blogger** - Sharing knowledge with the developer community
 - ☕ **Coffee Addict** - Fueling my coding sessions with the perfect brew
 
-### 💡 **My Philosophy**
-> *"Code is not just about making things work, it's about making things work beautifully and efficiently."*
-
-```javascript
-const myApproach = {
-  problemSolving: "Think → Plan → Code → Test → Iterate",
-  learning: "Never stop exploring new technologies",
-  collaboration: "Great things happen when great minds work together",
-  passion: "Turning coffee into clean, efficient code ☕ → 💻"
-};
-```
-
----
-
 ## 🛠️ Skills & Technologies
 
 <div align="center">
@@ -78,18 +64,6 @@ const myApproach = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
 
 ## 🎯 Current Focus
 
@@ -106,7 +80,7 @@ const myApproach = {
 
 <div align="center">
   <h3>🔥 LeetCode Profile</h3>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
+  <a href="https://leetcode.com/u/adhi__8/E/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <br><br>
@@ -150,9 +124,6 @@ const myApproach = {
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" alt="Profile Views"/>
   
   **Thanks for visiting! 😊**
   

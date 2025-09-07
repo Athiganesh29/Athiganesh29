@@ -12,54 +12,68 @@
 
 ## 🚀 About Me
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" width="300" height="200"/>
+</div>
+
+### 🎯 **Who I Am**
+- 💻 **Full-Stack Developer** passionate about creating innovative solutions
+- 🎨 **Creative Problem Solver** who loves turning ideas into reality
+- 🚀 **Tech Enthusiast** always exploring the latest technologies
+- 📚 **Continuous Learner** dedicated to improving my skills every day
+
+### 🌟 **What I Do**
+- 🔧 **Build Web Applications** using modern frameworks and technologies
+- 🎨 **Design User Interfaces** that are both beautiful and functional
+- 🧩 **Solve Complex Problems** through logical thinking and creativity
+- 🤝 **Collaborate with Teams** to deliver exceptional projects
+
+### 🎮 **Beyond Coding**
+- 🎵 **Music Lover** - I find inspiration in melodies while coding
+- 🎮 **Gaming Enthusiast** - Love exploring virtual worlds
+- 📖 **Tech Blogger** - Sharing knowledge with the developer community
+- ☕ **Coffee Addict** - Fueling my coding sessions with the perfect brew
+
+### 💡 **My Philosophy**
+> *"Code is not just about making things work, it's about making things work beautifully and efficiently."*
+
 ```javascript
-const adhi = {
-  pronouns: "he" | "him",
-  code: ["JavaScript", "Python", "Java", "C++"],
-  askMeAbout: ["web dev", "tech", "gaming", "music"],
-  technologies: {
-    frontend: ["React", "Vue", "HTML", "CSS", "JavaScript"],
-    backend: ["Node.js", "Python", "Express"],
-    database: ["MongoDB", "MySQL", "PostgreSQL"],
-    tools: ["Git", "Docker", "VS Code", "Figma"]
-  },
-  funFact: "I turn coffee into code ☕ → 💻"
+const myApproach = {
+  problemSolving: "Think → Plan → Code → Test → Iterate",
+  learning: "Never stop exploring new technologies",
+  collaboration: "Great things happen when great minds work together",
+  passion: "Turning coffee into clean, efficient code ☕ → 💻"
 };
 ```
-
-I'm a passionate developer who loves creating amazing digital experiences! When I'm not coding, you can find me exploring new technologies, contributing to open source projects, or sharing knowledge with the developer community.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### Frontend Development
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-</div>
-
-### Backend Development
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <h3>💻 Programming Languages</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </div>
 
-### Databases & Tools
 <div align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <h3>🌐 Web Development</h3>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</div>
+
+<div align="center">
+  <h3>🗄️ Database</h3>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+</div>
+
+<div align="center">
+  <h3>🎨 Design Tools</h3>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
 </div>
 
 ---
@@ -83,15 +97,29 @@ I'm a passionate developer who loves creating amazing digital experiences! When 
 - 🌱 I'm currently learning **advanced React patterns**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **web development, JavaScript, or tech in general**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **athiganesh273@example.com**
 - ⚡ Fun fact: **I love debugging more than writing new code!**
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Coding Challenges & Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <h3>🔥 LeetCode Profile</h3>
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <br><br>
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" width="400"/>
+</div>
+
+<div align="center">
+  <h3>💪 HackerRank Profile</h3>
+  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=competitive-programming&theme=tokyonight&hide_border=true" alt="Competitive Programming"/>
 </div>
 
 ---

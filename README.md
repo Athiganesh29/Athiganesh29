@@ -1,7 +1,8 @@
 # Hey Hi! 👋 I'm Adhi
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Code+is+poetry+written+in+logic;Programming+is+the+art+of+telling+another+human+what+one+wants+the+computer+to+do;First+solve+the+problem%2C+then+write+the+code;Clean+code+always+looks+like+it+was+written+by+someone+who+cares" alt="Typing SVG" width="400" height="300" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Code+is+art;Logic+is+poetry;Think+%7C+Build+%7C+Ship;Write+code+that+cares" alt="Typing SVG" width="400" height="300" />
+
 </div>
 
 <div align="center">

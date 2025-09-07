@@ -1,22 +1,18 @@
 # Hey Hi! 👋 I'm Adhi
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Code+is+poetry+written+in+logic;Programming+is+the+art+of+telling+another+human+what+one+wants+the+computer+to+do;First+solve+the+problem%2C+then+write+the+code;Clean+code+always+looks+like+it+was+written+by+someone+who+cares" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Code+is+poetry+written+in+logic;Programming+is+the+art+of+telling+another+human+what+one+wants+the+computer+to+do;First+solve+the+problem%2C+then+write+the+code;Clean+code+always+looks+like+it+was+written+by+someone+who+cares" alt="Typing SVG" width="400" height="300" />
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="400" height="300"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnF4MXltcTFkNTFzc2wxNjhvczg2bDJ3NXNvZ3kycmNpcHVkcjllMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding GIF" width="400" height="300"/>
 </div>
 
 ---
 
 ## 🚀 About Me
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" width="300" height="200"/>
-</div>
 
-### 🎯 **Who I Am**
 - 💻 **Full-Stack Developer** passionate about creating innovative solutions
 - 🎨 **Creative Problem Solver** who loves turning ideas into reality
 - 🚀 **Tech Enthusiast** always exploring the latest technologies
@@ -33,6 +29,7 @@
 - 🎮 **Gaming Enthusiast** - Love exploring virtual worlds
 - 📖 **Tech Blogger** - Sharing knowledge with the developer community
 - ☕ **Coffee Addict** - Fueling my coding sessions with the perfect brew
+
 
 ## 🛠️ Skills & Technologies
 
@@ -64,6 +61,7 @@
 
 ---
 
+---
 
 ## 🎯 Current Focus
 
@@ -71,7 +69,7 @@
 - 🌱 I'm currently learning **advanced React patterns**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **web development, JavaScript, or tech in general**
-- 📫 How to reach me: **athiganesh273@example.com**
+- 📫 How to reach me: **athiganesh273@gmail.com**
 - ⚡ Fun fact: **I love debugging more than writing new code!**
 
 ---
@@ -80,52 +78,44 @@
 
 <div align="center">
   <h3>🔥 LeetCode Profile</h3>
-  <a href="https://leetcode.com/u/adhi__8/E/" target="_blank">
+  <a href="https://leetcode.com/u/adhi__8/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <br><br>
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" width="400"/>
+  <img src="https://leetcard.jacoblin.cool/adhi__8?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" width="400"/>
 </div>
 
 <div align="center">
   <h3>💪 HackerRank Profile</h3>
-  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME" target="_blank">
+  <a href="https://www.hackerrank.com/profile/athiganesh273" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=competitive-programming&theme=tokyonight&hide_border=true" alt="Competitive Programming"/>
+  <img src="https://img.shields.io/badge/Java-Badge-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
 </div>
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="Contribution Graph"/>
-</div>
-
----
 
 ## 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/adhi-ganesh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/your-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://portfollio-pink.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://instagram.com/your-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://wa.me/919361201465" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:athiganesh273@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
 ---
   
-  **Thanks for visiting! 😊**
-  
-  ![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+  <div align="center">
+ <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDFqcTJ5anN0ZzN0bDhxaGZ1M2NxcW54dXgzdmZnazV1cDU2cjl2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U8bDgsXcnIEFy/giphy.gif" />
 </div>
